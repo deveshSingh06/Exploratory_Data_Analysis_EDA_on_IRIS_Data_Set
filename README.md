@@ -16,7 +16,7 @@ For information on IRIS Data Set, read: https://en.wikipedia.org/wiki/Iris_flowe
 
 ## Features Used
 The following features of the flowers are used for the analysis:
-1.Sepal Length
-2.Sepal Width
-3.Petal Length
-4.Petal Width
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
