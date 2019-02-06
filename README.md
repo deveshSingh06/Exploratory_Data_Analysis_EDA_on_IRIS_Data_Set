@@ -8,7 +8,7 @@ For information on IRIS Data Set, read: https://en.wikipedia.org/wiki/Iris_flowe
 - Here, we explore the given data as much as we can, hence the name Exploratory.
 
 ## Balanced Data Set
-- The data set, viz. IRIS Data Set, used for this problem is balanced data set.
+- The data set viz. IRIS Data Set, used for this problem is balanced data set.
 - Each species of the flowers in the data set consists of equal number of data points as given below:
 1. Iris Virginica  :  50
 2. Iris Versicolor :  50
