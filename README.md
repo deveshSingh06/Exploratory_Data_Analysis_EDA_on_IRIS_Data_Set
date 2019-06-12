@@ -6,6 +6,7 @@ For information on IRIS Data Set, read: https://en.wikipedia.org/wiki/Iris_flowe
 - It is a task of analyzing the given data using tools from Statistics, Linear Algebra, Plotting tools, etc.
 - It is the very first thing to do before providing a model using machine learning.
 - Here, we explore the given data as much as we can, hence the name Exploratory.
+
 **Note**: While exploring the data one must also try to clean the data by using some data cleaning techniques such as deduplication, removing extra spaces, change text to the proper case, spell check, etc.
 ## Balanced Data Set
 - The data set viz. IRIS Data Set, used for this problem is balanced data set.
