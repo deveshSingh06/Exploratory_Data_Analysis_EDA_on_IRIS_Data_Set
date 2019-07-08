@@ -9,8 +9,8 @@ For information on IRIS Data Set, read [this](https://en.wikipedia.org/wiki/Iris
 
 **Note**: While exploring the data one must also try to clean the data by using some data cleaning techniques such as deduplication, removing extra spaces, change text to the proper case, spell check, etc. To learn about some data cleaning and pre-processing techniques, check my notebook [here](https://github.com/deveshSingh06/Natural-Language-Processing/blob/master/2.%20Text%20Pre-Processing.ipynb).
 ## Balanced Data Set
-- The data set viz. IRIS Data Set, used for this problem is balanced data set.
-- Each species of the flowers in the data set consists of equal number of data points as given below:
+- The IRIS Data Set used for this problem is balanced data set.
+- That is, each species of the flowers in the data set consists of equal number of data points as given below:
 1. Iris Virginica  :  50
 2. Iris Versicolor :  50
 3. Iris Setosa     :  50
